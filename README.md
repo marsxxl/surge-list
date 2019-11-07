@@ -1,1 +1,1 @@
-# surge-list
+# surge rule-set sample
