@@ -1,3 +1,4 @@
+DOMAIN,apps.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,xp.apple.com
 USER-AGENT,com.apple.appstored*
