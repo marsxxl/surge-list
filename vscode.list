@@ -1,10 +1,15 @@
 DOMAIN-SUFFIX,codecov.io
 DOMAIN-SUFFIX,travis-ci.org
+DOMAIN-SUFFIX,update.code.visualstudio.com
+DOMAIN-SUFFIX,code.visualstudio.com
+DOMAIN-SUFFIX,go.microsoft.com
 DOMAIN-SUFFIX,vscode-update.azurewebsites.net
 DOMAIN-SUFFIX,vscode.blob.core.windows.net
 DOMAIN-SUFFIX,marketplace.visualstudio.com
+DOMAIN-SUFFIX,gallery.vsassets.io
 DOMAIN-SUFFIX,gallerycdn.vsassets.io
 DOMAIN-SUFFIX,rink.hockeyapp.net
 DOMAIN-SUFFIX,vscode.search.windows.net
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,vsmarketplacebadge.apphb.com
+DOMAIN-SUFFIX,az764295.vo.msecnd.net
