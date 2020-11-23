@@ -1,10 +1,11 @@
 # Other
+DOMAIN,i.loli.net
+DOMAIN,ip.bjango.com,Proxy
+DOMAIN,plugins.jetbrains.com
+DOMAIN-KEYWORD,officecdn
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,v2ex.com
-DOMAIN,i.loli.net
-DOMAIN,plugins.jetbrains.com
-DOMAIN-KEYWORD,officecdn
 DOMAIN-SUFFIX,scomper.me
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,renzhe.cloud
