@@ -6,12 +6,12 @@
   let used = bytesToSize(usage.download + usage.upload);
   let total = bytesToSize(usage.total);
   let expire = usage.expire == undefined ? '' : '|' + formatTimestamp(usage.expire * 1000)
-  let body = `${used}/${total}${expire}  = ss, 1.2.3.4, 1234, encrypt-method=aes-128-gcm,password=1234`;
+  let body = `${used} - ${total}${expire}  = ss, 1.2.3.4, 1234, encrypt-method=aes-128-gcm,password=1234`;
     $done({response: {body}});
 })();
 
 function getUrlParams(url) {
-  return Object.fromEntries(url.slice(url.indexOf('?') + 1).split('&').map(item => item.split("=")).map(([k, v]) => [k, decodeURIComponent(v)]));   
+  return Object.fromEntries(url.slice(url.indexOf('?') + 1).split('&').map(item => ihttps://github.com/marsxxl/surge-list/blob/master/sub_info.jstem.split("=")).map(([k, v]) => [k, decodeURIComponent(v)]));   
 }
 
 function getUserInfo(url) {
