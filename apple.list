@@ -1,3 +1,7 @@
+# Other
+DOMAIN, ocsp2.apple.com
+DOMAIN, api.apple-cloudkit.com
+
 # Hackl0us
 DOMAIN,developer.apple.com
 DOMAIN-SUFFIX,digicert.com
