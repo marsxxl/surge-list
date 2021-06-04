@@ -1,0 +1,5 @@
+# ESPN
+USER-AGENT,ESPN*
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
